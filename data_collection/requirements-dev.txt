@@ -254,9 +254,7 @@ tldextract==3.3.0
 toml==0.10.2
     # via pre-commit
 tomli==2.0.1
-    # via
-    #   black
-    #   pep517
+    # via pep517
 twisted==22.4.0
     # via scrapy
 typing-extensions==4.2.0
@@ -279,7 +277,7 @@ w3lib==1.22.0
     #   scrapy
 webcolors==1.11.1
     # via jsonschema
-wheel==0.37.1
+wheel==0.38.1
     # via pip-tools
 yarl==1.7.2
     # via aiohttp
